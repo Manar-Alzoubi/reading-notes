@@ -14,4 +14,4 @@
 
 |Code                  |Title                         | Link                   |
 |:---                  | ---:                         | :---:                  |
-|code 1                |      Growth Mindset          | [Link](https://github.com/Manar-Alzoubi/reading-notes/growth-mindset)|
+|code 1                |      Growth Mindset          | [Link](./growthmindset.md)|
