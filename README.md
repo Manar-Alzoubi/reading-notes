@@ -12,6 +12,6 @@
 
 #### 401 Contents Table
 
-|Code          |Title          | Link       |
-|:---          | ---:          | :---:      |
-|              |               |            |
+|Code                  |Title                         | Link                   |
+|:---                  | ---:                         | :---:                  |
+|code 1                |      Growth Mindset          | [Link](https://github.com/Manar-Alzoubi/reading-notes/growth-mindset)|
