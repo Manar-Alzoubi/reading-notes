@@ -12,6 +12,7 @@
 
 #### 401 Contents Table
 
-|Code                  |Title                         | Link                   |
-|:---                  | ---:                         | :---:                  |
-|code 1                |      Growth Mindset          | [Link](./growth-mindset.md)|
+|Code                                   |Title                                         | Link                                       |
+|:---                                   | ---:                                         | :---:                                      |
+|code 1                                 |      Growth Mindset                          | [Link](./growthmindset.md)                 |
+|code 1                                 |      Practic in Terminals                    | [Link](./practiceterminals.md)                 |
