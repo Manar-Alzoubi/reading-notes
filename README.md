@@ -6,7 +6,7 @@
 
 *I am very good with c++ programming language, and I want to be a devloper soon.*
 
-** I want to add my reading-notes of the course on this website inorder to be a reference **
+**I want to add my reading-notes of the course on this website inorder to be a reference.**
 
 ## Code 401 - Advanced Software development
 
