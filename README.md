@@ -12,6 +12,7 @@
 
 #### 401 Contents Table
 
+
 |Code                             |Title                                                  | Link                                       |
 |:---                             | ---:                                                  | :---:                                      |
 |code 1                           |      Growth Mindset                                   | [Link](./growthmindset.md)                 |
@@ -20,3 +21,4 @@
 |code 4                           |      Java Basics                                      | [Link](./javaBasics.md)                    |
 |code 5                           |      Arrays, Loops, Imports                           | [Link](./read2.md)                         |
 |code 6                           |      Maps, primitives, File I/O                       | [Link](./read3.md)                         |
+
