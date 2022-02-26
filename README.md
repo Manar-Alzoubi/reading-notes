@@ -20,4 +20,5 @@
 |code 3                           |      Introduction To SQL                              | [Link](./sql.md)                           |
 |code 4                           |      Java Basics                                      | [Link](./javaBasics.md)                    |
 |code 5                           |      Arrays, Loops, Imports                           | [Link](./read2.md)                         |
+|code 6                           |      Maps, primitives, File I/O                       | [Link](./read3.md)                         |
 
