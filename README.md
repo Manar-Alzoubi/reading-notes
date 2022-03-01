@@ -12,6 +12,7 @@
 
 #### 401 Contents Table
 
+
 |Code                             |Title                                                  | Link                                       |
 |:---                             | :---                                                  | :---:                                      |
 |code 1                           |      Growth Mindset                                   | [Link](./growthmindset.md)                 |
@@ -21,4 +22,5 @@
 |code 5                           |      Arrays, Loops, Imports                           | [Link](./read2.md)                         |
 |code 6                           |      Maps, primitives, File I/O                       | [Link](./read3.md)                         |
 |code 7                           |      Java oop                                         | [Link](./read4.md)                         |
-|code 8                           |      Big (O) & Linked list                            | [Link](./linkedlist.md)                         |
+|code 8                           |      Big (O) & Linked list                            | [Link](./linkedlist.md)                    |
+
