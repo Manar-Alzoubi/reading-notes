@@ -81,6 +81,7 @@ in the example above:
 >
 >         gear = newValue;
 >    }
+>
 >}
 
 *  an interface allows a class to become more formal about the behavior  to provide
