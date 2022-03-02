@@ -120,7 +120,7 @@ ALGORITHM Add(newValue)
 >
 >  Head <-- newNode
 
-
+--------------------------------------------------------------------------------------
 
 
 ALGORITHM AddBefore(newValue, valueToAddBefore)
@@ -131,24 +131,24 @@ ALGORITHM AddBefore(newValue, valueToAddBefore)
 > Current <-- Head
 >
 > IF Current is equal to NULL
-  >  return FALSE
+>  return FALSE
 >
 > WHILE Current.Next is not equal to NULL
 >
-  >  IF Current.Next.Value is equal to valueToAddBefore
-  >
-   >   newNode <-- NEW Node
-   >
-    >  newNode.Value <-- newValue
-    >
-    > newNode.Next <-- Current.Next
-    >
-    >Current.Next <-- newNode
-    >
-    >return TRUE
+>  IF Current.Next.Value is equal to valueToAddBefore
 >
-   > Current <-- Current.Next;
+>   newNode <-- NEW Node
 >
- > return FALSE
+>  newNode.Value <-- newValue
+>
+> newNode.Next <-- Current.Next
+>
+>Current.Next <-- newNode
+>
+>return TRUE
+>
+> Current <-- Current.Next;
+>
+> return FALSE
 
  ![Linked list ](./images/addllist.jpg)
