@@ -22,4 +22,4 @@
 |code 6                           |      Maps, primitives, File I/O                       | [Link](./read3.md)                         |
 |code 7                           |      Java oop                                         | [Link](./read4.md)                         |
 |code 8                           |      Big (O) & Linked list                            | [Link](./linkedlist.md)                    |
-|code 9                           |      Interface & Inheritance                          | [Link](./read6)                            |
+|code 9                           |      Interface & Inheritance                          | [Link](./read6.md)                            |
