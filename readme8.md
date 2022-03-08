@@ -13,19 +13,19 @@ example : for the following program the company provide the service of wash car 
 >public class Mechanic {
     >
 	>public void serviceBus() {
-        >
-		>System.out.println("Servicing bus now");
-        >
-        >        //Process washing
-        >
+    >
+	>   System.out.println("Servicing bus now");
+    >
+    >        //Process washing
+    >
 	>}
     >
 	>public void serviceCar() {
-        >
+    >
 	>	System.out.println("Servicing car now");
     >
-     >           //Process washing
-     >
+    >           //Process washing
+    >
 	>}
 >}
 
@@ -34,24 +34,24 @@ instead of previous code  Do the following one:
 >public class Mechanic {
     >
 	>public void serviceBus() {
-        >
-	   >	System.out.println("Servicing bus now");
-       >
-           >     washVehicle();
-           >
+    >
+	>	System.out.println("Servicing bus now");
+    >
+    >     washVehicle();
+    >
 	>}
 	>public void serviceCar() {
-        >
-		>System.out.println("Servicing car now");
-        >
-                >washVehicle();
-                >
+    >
+	>   System.out.println("Servicing car now");
+    >
+    >   washVehicle();
+    >
 	>}
     >
-        >public void washVehicle() {
-            >
-               >//Process washing
-               >
+    >public void washVehicle() {
+    >
+    >   //Process washing
+    >
 	>}
     >
 >}
@@ -94,7 +94,7 @@ instead of previous code  Do the following one:
 
     * To establish a builder's abilities in crafting the product required
  
- example 
+  * example 
 
  
 ![MVP](./images/MVP.jpg)
