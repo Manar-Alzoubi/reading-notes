@@ -12,6 +12,7 @@
 
 #### 401 Contents Table
 
+
 |Code                             |Title                                                  | Link                                       |
 |:---                             | :---                                                  | :---:                                      |
 |code 1                           |      Growth Mindset                                   | [Link](./growthmindset.md)                 |
@@ -25,3 +26,4 @@
 |code 9                           |      Interface & Inheritance                          | [Link](./read6.md)                         |
 |code 10                          |      OO Design                                        | [Link](./readme8.md)                       |
 |code 11                          |      WRRC and Java                                    | [Link](./read9.md)                         |
+
