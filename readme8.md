@@ -10,51 +10,52 @@ This principle aims to reduce repetition of software development, to avoid this 
 
 example : for the following program the company provide the service of wash car after it's services, make the wash as separate methode and call it wherever you need instead of writing code each time 
 
->public class Mechanic {
-    >
-	>public void serviceBus() {
-    >
-	>   System.out.println("Servicing bus now");
-    >
-    >        //Process washing
-    >
-	>}
-    >
-	>public void serviceCar() {
-    >
-	>	System.out.println("Servicing car now");
-    >
-    >           //Process washing
-    >
-	>}
->}
+>  public class Mechanic {
+>
+>  	 public void serviceBus() {
+>
+>   		System.out.println("Servicing bus now");
+>
+>        	//Process washing
+>
+>   	}
+>
+>  	public void serviceCar() {
+>
+>		System.out.println("Servicing car now");
+>
+>           	//Process washing
+>
+> 	}
+> 
+>     }
 
 instead of previous code  Do the following one: 
 
->public class Mechanic {
-    >
-	>public void serviceBus() {
-    >
-	>	System.out.println("Servicing bus now");
-    >
-    >     washVehicle();
-    >
-	>}
-	>public void serviceCar() {
-    >
-	>   System.out.println("Servicing car now");
-    >
-    >   washVehicle();
-    >
-	>}
-    >
-    >public void washVehicle() {
-    >
-    >   //Process washing
-    >
-	>}
-    >
->}
+>  public class Mechanic {
+>
+>	public void serviceBus() {
+>
+>		System.out.println("Servicing bus now");
+>
+>       	washVehicle();
+>
+>       }
+>   	public void serviceCar() {
+>
+>   		System.out.println("Servicing car now");
+>
+>   		washVehicle();
+>
+>       }
+>
+>   	public void washVehicle() {
+>
+>   		//Process washing
+>
+> 	 }
+>
+>   }
 
 -------------------------------------------------------------------------------------------------------------------
 ###  Rule of three principle
