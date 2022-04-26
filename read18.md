@@ -1,7 +1,7 @@
 # Web App Security
 ### Hibernate Many to Many Annotation Tutorial
 
-#### how the @ManyToMany annotation can be used for specifying this type of relationships in Hibernate
+#### how the `@ManyToMany` annotation can be used for specifying this type of relationships in Hibernate
 #### A Typical Example
 
 ![Entity Relationship Diagram](./images/relation.jpg)
