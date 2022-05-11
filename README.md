@@ -12,6 +12,7 @@
 
 #### 401 Contents Table
 
+
 |Code                             |Title                                                  | Link                                       |
 |:---                             | :---                                                  | :---:                                      |
 |code 1                           |      Growth Mindset                                   | [Link](./growthmindset.md)                 |
@@ -39,3 +40,4 @@
 |code 28                          |      Recycler View                                    | [Link](./read28.md)                        |
 |code 29                          |      Room                                             | [Link](./read29.md)                        |
 |code 30                          |      Hash Tables                                      | [Link](./read30.md)                        |
+
