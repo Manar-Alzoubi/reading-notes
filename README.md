@@ -38,3 +38,4 @@
 |code 27                          |      Intents, Activities, and SharedPreferences       | [Link](./read27.md)                        |
 |code 28                          |      Recycler View                                    | [Link](./read28.md)                        |
 |code 29                          |      Room                                             | [Link](./read29.md)                        |
+|code 30                          |      Hash Tables                                      | [Link](./read30.md)                        |
