@@ -39,4 +39,5 @@
 |code 28                          |      Recycler View                                    | [Link](./read28.md)                        |
 |code 29                          |      Room                                             | [Link](./read29.md)                        |
 |code 30                          |      Hash Tables                                      | [Link](./read30.md)                        |
-|code 31                          |       Espresso                                        | [Link](./read31.md)                        |
+|code 31                          |      Espresso                                         | [Link](./read31.md)                        |
+|code 32                          |      Serverless and Amplify                           | [Link](./read32.md)                        |
