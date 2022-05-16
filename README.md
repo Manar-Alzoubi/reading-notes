@@ -12,6 +12,7 @@
 
 #### 401 Contents Table
 
+
 |Code                             |Title                                                  | Link                                       |
 |:---                             | :---                                                  | :---:                                      |
 |code 1                           |      Growth Mindset                                   | [Link](./growthmindset.md)                 |
@@ -41,3 +42,4 @@
 |code 30                          |      Hash Tables                                      | [Link](./read30.md)                        |
 |code 31                          |      Espresso                                         | [Link](./read31.md)                        |
 |code 32                          |      Serverless and Amplify                           | [Link](./read32.md)                        |
+
