@@ -42,4 +42,5 @@
 |code 30                          |      Hash Tables                                      | [Link](./read30.md)                        |
 |code 31                          |      Espresso                                         | [Link](./read31.md)                        |
 |code 32                          |      Serverless and Amplify                           | [Link](./readme32.md)                      |
+|code 33                          |      GraphQL @connection                              | [Link](./read33.md)                        |
 
