@@ -44,4 +44,5 @@
 |code 32                          |      Serverless and Amplify                           | [Link](./readme32.md)                      |
 |code 33                          |      GraphQL @connection                              | [Link](./read33.md)                        |
 |code 34                          |      Monetization(Google’s app publishing guide)      | [Link](./read34.md)                        |
+|code 35                          |      Graphs                                           | [Link](./readgraph.md)                     |
 
