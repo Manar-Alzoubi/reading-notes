@@ -44,3 +44,4 @@
 |code 33                          |      GraphQL @connection                              | [Link](./read33.md)                        |
 |code 34                          |      Monetization(Google’s app publishing guide)      | [Link](./read34.md)                        |
 |code 35                          |      Graphs                                           | [Link](./readgraph.md)                     |
+|code 36                          |     Amplify and Cognito                               | [Link](./read36.md)                        |
