@@ -47,4 +47,5 @@
 |code 35                          |      Graphs                                           | [Link](./readgraph.md)                     |
 |code 36                          |     Amplify and Cognito                               | [Link](./read36.md)                        |
 |code 37                          |     Amazon Simple Storage Service (S3)                | [Link](./read37.md)                        |
+|code 38                          |     Notifications                                     | [Link](./read38.md)                        |
 
