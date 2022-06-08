@@ -12,6 +12,7 @@
 
 #### 401 Contents Table
 
+
 |Code                             |Title                                                  | Link                                       |
 |:---                             | :---                                                  | :---:                                      |
 |code 1                           |      Growth Mindset                                   | [Link](./growthmindset.md)                 |
@@ -51,3 +52,4 @@
 |code 41                          |     Amazon Pinpoint and Amazon Polly                  | [Link](./read41.md)                        |
 |code 42                          |     Location                                          | [Link](./read42.md)                        |
 |code 42                          |     Ethics in Tech                                    | [Link](./read42.md)                        |
+
