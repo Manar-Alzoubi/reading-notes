@@ -51,5 +51,5 @@
 |code 39                          |     Kinesis                                           | [Link](./read39.md)                        |
 |code 41                          |     Amazon Pinpoint and Amazon Polly                  | [Link](./read41.md)                        |
 |code 42                          |     Location                                          | [Link](./read42.md)                        |
-|code 42                          |     Ethics in Tech                                    | [Link](./read42.md)                        |
+|code 42                          |     Ethics in Tech                                    | [Link](./read422.md)                        |
 
