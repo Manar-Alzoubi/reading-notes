@@ -12,6 +12,7 @@
 
 #### 401 Contents Table
 
+
 |Code                             |Title                                                  | Link                                       |
 |:---                             | :---                                                  | :---:                                      |
 |code 1                           |      Growth Mindset                                   | [Link](./growthmindset.md)                 |
@@ -52,3 +53,4 @@
 |code 42                          |     Location                                          | [Link](./read42.md)                        |
 |code 42                          |     Ethics in Tech                                    | [Link](./read422.md)                       |
 |code 43                          |     OSS Contributions                                 | [Link](./read43.md)                        |
+
